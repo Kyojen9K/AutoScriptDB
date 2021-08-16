@@ -1,6 +1,6 @@
 #!/bin/bash
 #Licensed to https://www.hostingtermurah.net/
-#Script by SigulaDev
+#Script by Monarch
 
 if [[ -e /etc/debian_version ]]; then
 	OS=debian
