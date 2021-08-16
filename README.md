@@ -47,18 +47,3 @@ wget https://raw.githubusercontent.com/raziman869/AutoScriptDB/master/DBM && chm
 <h3 align="center">Additional Info</h3>
 <p align="center">
 Recommended OS: Debian 10 Buster x64
-
-<h3 align="center">Screenshots</h3>
-<p align="center">
-<img src="https://github.com/raziman869/AutoScriptDB/raw/master/Snapshots/1.png">
-   </p>
-  <p align="center">
-  <img src="https://github.com/raziman869/AutoScriptDB/raw/master/Snapshots/2.png">
-   </p>
-  <p align="center">
-  <img src="https://github.com/raziman869/AutoScriptDB/raw/master/Snapshots/3.png">
-  </p>
-  <p align="center">
-  <img src="https://github.com/raziman869/AutoScriptDB/raw/master/Snapshots/4.png">
-   </p>
-   
