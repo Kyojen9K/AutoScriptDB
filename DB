@@ -40,7 +40,7 @@ Squid_Port3='80'
 OvpnDownload_Port='85' # Before changing this value, please read this document. It contains all unsafe ports for Google Chrome Browser, please read from line #23 to line #89: https://chromium.googlesource.com/chromium/src.git/+/refs/heads/master/net/base/port_util.cc
 
 # Server local time
-MyVPS_Time='Asia/Manila'
+MyVPS_Time='Asia/Malaysia'
 #############################
 
 
@@ -1240,8 +1240,8 @@ echo ""  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
 echo "OpenVPN Configs Download"  | tee -a log-install.txt
 echo "   - Download Link           : http://$IPADDR:85/configs.zip"  | tee -a log-install.txt
-echo " ©SigulaDev"  | tee -a log-install.txt
-echo " t.me/sigula"  | tee -a log-install.txt
+echo " ©MonarchReborn"  | tee -a log-install.txt
+echo " t.me/Kyowon"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
 echo " This script is under project of https://github.com/raziman869/AutoScriptDB"  | tee -a log-install.txt
 echo " Please Reboot your VPS"
