@@ -28,7 +28,7 @@
 <h3 align="center">Installation (Default Version)</h3>
 
   ```html
-wget https://raw.githubusercontent.com/raziman869/AutoScriptDB/master/DB && chmod +x DB && ./DB
+wget https://raw.githubusercontent.com/Kyojen9K/AutoScriptDB/master/DB && chmod +x DB && ./DB
   ```
 
 <h3 align="center">Installation (Experimental)</h3>
