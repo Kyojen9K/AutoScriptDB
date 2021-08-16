@@ -12,7 +12,7 @@
 #############################
 # Variables (Can be changed depends on your preferred values)
 # Script name
-MyScriptName='JohnFordTV-Premium Script'
+MyScriptName='Kyojen9K Script'
 
 # OpenSSH Ports
 SSH_Port1='22'
@@ -46,7 +46,7 @@ Squid_Port3='60000'
 OvpnDownload_Port='85' # Before changing this value, please read this document. It contains all unsafe ports for Google Chrome Browser, please read from line #23 to line #89: https://chromium.googlesource.com/chromium/src.git/+/refs/heads/master/net/base/port_util.cc
 
 # Server local time
-MyVPS_Time='Asia/Manila'
+MyVPS_Time='Asia/Malaysia'
 #############################
 
 
@@ -1136,8 +1136,8 @@ cd ~
 function ScriptMessage(){
  echo -e " [\e[1;32m$MyScriptName VPS Installer\e[0m]"
  echo -e ""
- echo -e " https://fb.com/johndesu090"
- echo -e "[GCASH] 09206200840 [PAYPAL] johnford090@gmail.com"
+ echo -e " https://t.me/Kyowon"
+ echo -e "[Public] Script [NotForSell] jenmyowon@gmail.com"
  echo -e ""
 }
 
@@ -1262,11 +1262,11 @@ echo " "
 echo "Installation has been completed!!"
 echo "--------------------------------------------------------------------------------"
 echo "                            Debian Premium Script                               "
-echo "                                 -FordSenpai-                                   "
+echo "                               -Monarch Reborn-                                 "
 echo "--------------------------------------------------------------------------------"
 echo ""  | tee -a log-install.txt
 echo "Server Information"  | tee -a log-install.txt
-echo "   - Timezone    : Asia/Manila (GMT +8)"  | tee -a log-install.txt
+echo "   - Timezone    : Asia/Malaysia (GMT +8)"  | tee -a log-install.txt
 echo "   - Fail2Ban    : [ON]"  | tee -a log-install.txt
 echo "   - IPtables    : [ON]"  | tee -a log-install.txt
 echo "   - Auto-Reboot : [ON]"  | tee -a log-install.txt
