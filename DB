@@ -5,7 +5,7 @@
 #############################
 # Variables (Can be changed depends on your preferred values)
 # Script name
-MyScriptName='SigulaDev-Premium Script'
+MyScriptName='Monarch Script'
 
 # OpenSSH Ports
 SSH_Port1='22'
@@ -1208,7 +1208,7 @@ echo " "
 echo "Installation has been completed!!"
 echo "--------------------------------------------------------------------------------"
 echo "                            Debian Premium Script                               "
-echo "                                 -SigulaDev-                                   "
+echo "                                 -Monarch Reborn-                               "
 echo "--------------------------------------------------------------------------------"
 echo ""  | tee -a log-install.txt
 echo "Server Information"  | tee -a log-install.txt
