@@ -1082,8 +1082,8 @@ cd ~
 function ScriptMessage(){
  echo -e " [\e[1;32m$MyScriptName VPS Installer\e[0m]"
  echo -e ""
- echo -e " t.me/sigula"
- echo -e " [PAYPAL] huhu86977@gmail.com"
+ echo -e " t.me/Kyowon"
+ echo -e " [Credit] to all Developer work hard "
  echo -e ""
 }
 
